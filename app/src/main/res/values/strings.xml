@@ -3,4 +3,6 @@
     <string name="splash">WELCOME</string>
     <string name="register">REGISTRASI</string>
     <string name="login">LOGIN</string>
+    <string name="masuk">MASUK</string>
+    <string name="daftar">DAFTAR</string>
 </resources>
