@@ -5,5 +5,7 @@
     <string name="login">LOGIN</string>
     <string name="masuk">MASUK</string>
     <string name="daftar">DAFTAR</string>
-    <string name="username">Username</string>
+    <string name="username">Username :</string>
+       <string name="email">Email    :</string>
+    <string name="password">Password :</string>
 </resources>
